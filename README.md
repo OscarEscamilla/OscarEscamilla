@@ -40,7 +40,7 @@
     <a href="https://linkedin.com/in/oscar-escamilla" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oscar escamilla" height="30"
             width="40" /></a>
-    <a href="https://instagram.com/oscarscam" target="blank"><img align="center"
+    <a href="https://instagram.com/oscar_escam" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="oscar escamilla" height="30"
             width="40" /></a>
     <a href="https://www.youtube.com/channel/UCaaX2hzO1LcZNfK0O9RNbXg" target="blank"><img align="center"
