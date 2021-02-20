@@ -5,6 +5,26 @@
 
 <p align="left"> <a href="https://twitter.com/@oscarescami" target="blank"><img src="https://img.shields.io/twitter/follow/@oscarescami?logo=twitter&style=for-the-badge" alt="@oscarescami" /></a> </p>
 
+- 🔭 I’m currently working on [dsadasd](ssadsa)
+
+- 🌱 I’m currently learning **sadasd**
+
+- 👯 I’m looking to collaborate on [sadasd](asdsad)
+
+- 🤝 I’m looking for help with [sadasdasd](sadsad)
+
+- 👨‍💻 All of my projects are available at [sadasd](sadasd)
+
+- 📝 I regularly write articles on [asdasd](asdasd)
+
+- 💬 Ask me about **asdasdsad**
+
+- 📫 How to reach me **sadsad**
+
+- 📄 Know about my experiences [asdasd](asdasd)
+
+- ⚡ Fun fact **asdsadas**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@oscarescami" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@oscarescami" height="30" width="40" /></a>
