@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! 👋, I'am Oscar Escamilla
+
+#### A passionate software developer from Mexico 
 
 <img src="https://github.com/OscarEscamilla/OscarEscamilla/blob/main/2.png" alt="Banner"/>
 
