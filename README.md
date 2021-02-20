@@ -2,7 +2,7 @@
 
 #### A passionate software developer from Mexico 
 
-<img src="https://github.com/OscarEscamilla/OscarEscamilla/blob/main/2.png" alt="Banner"/>
+<img src="https://github.com/OscarEscamilla/OscarEscamilla/blob/main/Blue%20Skyline%20Details%20General%20LinkedIn%20Banner%20(2).png" alt="Banner"/>
 
 Here are some ideas to get you started:
 
