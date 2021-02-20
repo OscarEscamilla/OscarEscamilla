@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/OscarEscamilla/OscarEscamilla/blob/main/Banner.png" alt="Banner"/>
+<img src="https://github.com/OscarEscamilla/OscarEscamilla/blob/main/2.png" alt="Banner"/>
 
 Here are some ideas to get you started:
 
