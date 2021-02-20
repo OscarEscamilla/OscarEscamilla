@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**OscarEscamilla/OscarEscamilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/OscarEscamilla/OscarEscamilla/blob/main/Banner.png" alt="Banner"/>
 
 Here are some ideas to get you started:
 
