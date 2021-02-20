@@ -5,7 +5,7 @@
     alt="Banner" />
 
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=oscarescamilla&label=Profile%34views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=oscarescamilla&label=Profile views&color=0e75b6&style=flat"
         alt="oscarescamilla" /> </p>
 
 <p align="left"> <a href="https://twitter.com/oscarscami" target="blank"><img
