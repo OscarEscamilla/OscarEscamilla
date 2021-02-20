@@ -5,11 +5,11 @@
     alt="Banner" />
 
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=oscarescamilla&label=Profile%20views&color=0e75b6&style=flat"
+        src="https://komarev.com/ghpvc/?username=oscarescamilla&label=Profile%34views&color=0e75b6&style=flat"
         alt="oscarescamilla" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@oscarescami" target="blank"><img
-            src="https://img.shields.io/twitter/follow/@oscarescami?logo=twitter&style=for-the-badge"
+<p align="left"> <a href="https://twitter.com/oscarscami" target="blank"><img
+            src="https://img.shields.io/twitter/follow/oscarscami?logo=twitter&style=for-the-badge"
             alt="Oscar Escamilla" /></a> </p>
 
 - 🔭 I’m currently working on [dsadasd](ssadsa)
