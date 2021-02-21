@@ -11,26 +11,18 @@
 <p align="left"> <a href="https://twitter.com/oscarscami" target="blank"><img
             src="https://img.shields.io/twitter/follow/oscarscami?logo=twitter&style=for-the-badge"
             alt="Oscar Escamilla" /></a> </p>
+            
+- 🔭 I am currently working on [Android Development] ()
 
-- 🔭 I’m currently working on [dsadasd](ssadsa)
+- 🌱 I am currently learning ** Modern Android Development, Jetpack Library and React **
 
-- 🌱 I’m currently learning **sadasd**
+- 👯 I am looking to collaborate in [a team where I develop my skills and contribute my highest level] ()
 
-- 👯 I’m looking to collaborate on [sadasd](asdsad)
+- 👨‍💻 All my projects are available here [I upload practices on topics I learn] ()
 
-- 🤝 I’m looking for help with [sadasdasd](sadsad)
+- 📝 Eventually I will write articles about [software development, programming in my personal blog, wait for it ...] (asdasd)
 
-- 👨‍💻 All of my projects are available at [sadasd](sadasd)
-
-- 📝 I regularly write articles on [asdasd](asdasd)
-
-- 💬 Ask me about **asdasdsad**
-
-- 📫 How to reach me **sadsad**
-
-- 📄 Know about my experiences [asdasd](asdasd)
-
-- ⚡ Fun fact **asdsadas**
+- 💬 Do you have a project? ** let's collaborate **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
