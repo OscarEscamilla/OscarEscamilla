@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A passionate software developer from Mexico</h3>
+<h3 align="center">A passionate software developer from Mexico </h3>
 
 <img src="https://github.com/OscarEscamilla/OscarEscamilla/blob/main/Blue%20Skyline%20Details%20General%20LinkedIn%20Banner%20(2).png"
     alt="Banner" />
@@ -12,15 +12,15 @@
             src="https://img.shields.io/twitter/follow/oscarscami?logo=twitter&style=for-the-badge"
             alt="Oscar Escamilla" /></a> </p>
             
-- 🔭 I am currently working on [Android Development] ()
+- 🔭 I am currently working on Android Development
 
 - 🌱 I am currently learning ** Modern Android Development, Jetpack Library and React **
 
-- 👯 I am looking to collaborate in [a team where I develop my skills and contribute my highest level] ()
+- 👯 I am looking to collaborate in a team where I develop my skills and contribute my highest level
 
-- 👨‍💻 All my projects are available here [I upload practices on topics I learn] ()
+- 👨‍💻 All my projects are available here I upload practices on topics I learn
 
-- 📝 Eventually I will write articles about [software development, programming in my personal blog, wait for it ...] (asdasd)
+- 📝 Eventually I will write articles about software development, programming in my personal blog, wait for it ...
 
 - 💬 Do you have a project? ** let's collaborate **
 
