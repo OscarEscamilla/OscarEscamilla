@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A passionate software developer from Mexico </h3>
+<h3 align="center">A passionate Android Developer from Mexico </h3>
 
 <img src="https://github.com/OscarEscamilla/OscarEscamilla/blob/main/Blue%20Skyline%20Details%20General%20LinkedIn%20Banner%20(2).png"
     alt="Banner" />
