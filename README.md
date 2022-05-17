@@ -14,7 +14,7 @@
             
 - 🔭 I am currently working on Android Development
 
-- 🌱 I am currently learning ** Modern Android Development, Jetpack Library and React **
+- 🌱 I am currently learning ** Testing in Android Development and Clean Arquitecture **
 
 - 👯 I am looking to collaborate in a team where I develop my skills and contribute my highest level
 
