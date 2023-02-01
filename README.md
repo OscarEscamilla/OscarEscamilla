@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A passionate Android Developer from Mexico </h3>
 
-<img src="https://github.com/OscarEscamilla/OscarEscamilla/blob/main/Blue%20Skyline%20Details%20General%20LinkedIn%20Banner%20(2).png"
+<img src="https://github.com/OscarEscamilla/OscarEscamilla/blob/main/Android-IO22AndroidDevRecap_Header.png"
     alt="Banner" />
 
 <p align="left"> <img
