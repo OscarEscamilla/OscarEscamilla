@@ -39,7 +39,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,python,swift,js,html,css,vscode,androidstudio,firebase,mysql,mongodb,flask,express,nodejs,react,aws,docker,nginx,linux,git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,swift,python,fastapi,flask,js,vscode,androidstudio,firebase,mysql,mongodb,express,nodejs,react,aws,docker,nginx,linux,git,github,gitlab)](https://skillicons.dev)
 
 <!--
 <p><img align="center"
