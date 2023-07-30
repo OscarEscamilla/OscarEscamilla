@@ -12,9 +12,9 @@
             src="https://img.shields.io/twitter/follow/oscarscami?logo=twitter&style=for-the-badge"
             alt="Oscar Escamilla" /></a> </p>
             
-- 🔭 I am currently working on Android Development
+- 🔭 I am currently working on Android and iOS Development
 
-- 🌱 I am currently learning ** Testing in Android Development and Clean Arquitecture **
+- 🌱 I am currently learning ** iOS Development **
 
 - 👯 I am looking to collaborate in a team where I develop my skills and contribute my highest level
 
