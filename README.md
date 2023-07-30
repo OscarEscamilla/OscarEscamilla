@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A passionate Mobile Developer from Mexico </h3>
 
-<img src="https://github.com/OscarEscamilla/OscarEscamilla/blob/main/Android-IO22AndroidDevRecap_Header.png"
-    alt="Banner" />
+![Purple Bright Simple Motivational Quote LinkedIn Article Cover Image ](https://github.com/OscarEscamilla/OscarEscamilla/assets/37552751/108e92b5-01e4-4629-83df-87ee5924f66b)
+
+    
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=oscarescamilla&label=Profile views&color=0e75b6&style=flat"
