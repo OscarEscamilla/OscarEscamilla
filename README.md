@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A passionate Android Developer from Mexico </h3>
+<h3 align="center">A passionate Mobile Developer from Mexico </h3>
 
 <img src="https://github.com/OscarEscamilla/OscarEscamilla/blob/main/Android-IO22AndroidDevRecap_Header.png"
     alt="Banner" />
