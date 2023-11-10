@@ -3,7 +3,6 @@
 
 ![Purple Bright Simple Motivational Quote LinkedIn Article Cover Image ](https://github.com/OscarEscamilla/OscarEscamilla/assets/37552751/108e92b5-01e4-4629-83df-87ee5924f66b)
 
-    
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=oscarescamilla&label=Profile views&color=0e75b6&style=flat"
@@ -15,7 +14,7 @@
             
 - 🔭 I am currently working on Android and iOS Development
 
-- 🌱 I am currently learning ** iOS Development **
+- 🌱 I am currently learning ** Android Development **
 
 - 👯 I am looking to collaborate in a team where I develop my skills and contribute my highest level
 
