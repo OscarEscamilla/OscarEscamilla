@@ -4,10 +4,6 @@
 ![Purple Bright Simple Motivational Quote LinkedIn Article Cover Image ](https://github.com/OscarEscamilla/OscarEscamilla/assets/37552751/108e92b5-01e4-4629-83df-87ee5924f66b)
 
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=oscarescamilla&label=Profile views&color=0e75b6&style=flat"
-        alt="oscarescamilla" /> </p>
-
 <p align="left"> <a href="https://twitter.com/oscarscami" target="blank"><img
             src="https://img.shields.io/twitter/follow/oscarscami?logo=twitter&style=for-the-badge"
             alt="Oscar Escamilla" /></a> </p>
