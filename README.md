@@ -10,7 +10,7 @@
             
 - 🔭 I am currently working on Android and iOS Development
 
-- 🌱 I am currently learning ** Android Development **
+- 🌱 I am currently learning ** React Native **
 
 - 👯 I am looking to collaborate in a team where I develop my skills and contribute my highest level
 
