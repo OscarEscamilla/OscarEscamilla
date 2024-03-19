@@ -12,8 +12,6 @@
 
 - 🌱 I am currently learning ** React Native **
 
-- 👯 I am looking to collaborate in a team where I develop my skills and contribute my highest level
-
 - 👨‍💻 All my projects are available here I upload practices on topics I learn
 
 - 📝 Eventually I will write articles about software development, programming in my personal blog, wait for it ...
