@@ -8,13 +8,13 @@
             src="https://img.shields.io/twitter/follow/oscarscami?logo=twitter&style=for-the-badge"
             alt="Oscar Escamilla" /></a> </p>
             
-- 🔭 I am currently working on Android and iOS Development
+- 🔭 I am currently working on Django, Flask and DevOps
 
-- 🌱 I am currently learning ** React Native **
+- 🌱 I am currently learning ** CI/CD **
 
 - 👨‍💻 All my projects are available here I upload practices on topics I learn
 
-- 📝 Eventually I will write articles about software development, programming in my personal blog, wait for it ...
+- 📝 I write articles about new learning topics in my <a href="https://medium.com/@escamillaluquenoo">Medium Account</a> 
 
 - 💬 Do you have a project? ** let's collaborate **
 
@@ -33,7 +33,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,swift,python,fastapi,flask,js,vscode,androidstudio,firebase,mysql,mongodb,express,nodejs,react,aws,docker,nginx,linux,git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,swift,python,fastapi,flask,django,js,vscode,androidstudio,firebase,mysql,mongodb,express,nodejs,react,aws,docker,kubernetes,nginx,linux,git,github,gitlab)](https://skillicons.dev)
 
 <!--
 <p><img align="center"
