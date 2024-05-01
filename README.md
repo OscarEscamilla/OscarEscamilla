@@ -10,13 +10,13 @@
             
 - 🔭 I am currently working on Django, Flask and DevOps
 
-- 🌱 I am currently learning ** CI/CD **
+- 🌱 I am currently learning **CI/CD**
 
 - 👨‍💻 All my projects are available here I upload practices on topics I learn
 
 - 📝 I write articles about new learning topics in my <a href="https://medium.com/@escamillaluquenoo">Medium Account</a> 
 
-- 💬 Do you have a project? ** let's collaborate **
+- 💬 Do you have a project? **let's collaborate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
