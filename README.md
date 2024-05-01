@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A passionate Mobile Developer from Mexico </h3>
+<h3 align="center">A passionate Software Egineer</h3>
 
 ![Purple Bright Simple Motivational Quote LinkedIn Article Cover Image ](https://github.com/OscarEscamilla/OscarEscamilla/assets/37552751/108e92b5-01e4-4629-83df-87ee5924f66b)
 
