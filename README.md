@@ -8,7 +8,7 @@
             src="https://img.shields.io/twitter/follow/oscarscami?logo=twitter&style=for-the-badge"
             alt="Oscar Escamilla" /></a> </p>
             
-- 🔭 I am currently working on Django, Flask and DevOps
+- 🔭 I am currently working on Android, and a bit of Flutter and iOS
 
 - 🌱 I am currently learning **CI/CD**
 
