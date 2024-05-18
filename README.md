@@ -8,15 +8,7 @@
             src="https://img.shields.io/twitter/follow/oscarscami?logo=twitter&style=for-the-badge"
             alt="Oscar Escamilla" /></a> </p>
             
-- 🔭 I am currently working on Android, and a bit of Flutter and iOS
 
-- 🌱 I am currently learning **CI/CD**
-
-- 👨‍💻 All my projects are available here I upload practices on topics I learn
-
-- 📝 I write articles about new learning topics in my <a href="https://medium.com/@escamillaluquenoo">Medium Account</a> 
-
-- 💬 Do you have a project? **let's collaborate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
