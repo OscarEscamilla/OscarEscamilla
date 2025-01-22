@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar Escamilla</h1>  
-<h3 align="center">Software Engineer | Backend, Machine Learning, and Mobile Development</h3>  
+<h3 align="center">Software Engineer | Android Developer</h3>  
+
+<p>Exploring Machine learning with python </p>
 
 
 
@@ -19,7 +21,7 @@
 
 ### 🌟 About Me  
 
-- 💻 Currently working with **YOLOv8**, **SAM Segmentation**, and model training.  
+- 💻 Currently working and exploring with **YOLOv8**, **SAM Segmentation**, and model training.  
 - 🔧 Backend development using **Django** and **Flask**.  
 - 📱 Experienced in **Android**, **Flutter**, and a bit of **iOS** with **Swift**.  
 - 🚀 Passionate about combining AI, backend systems, and mobile apps to solve real-world problems.  
