@@ -21,8 +21,8 @@
 
 ### 🌟 About Me  
 
-- 💻 Currently working and exploring with **YOLOv8**, **SAM Segmentation**, and model training.  
-- 🔧 Backend development using **Django** and **Flask**.  
+- 💻 Currently working and exploring with **deep learning**, **Computer vision**, **Devops**, and model training.  
+- 🔧 Backend development using **Django**, **FastAPI** and **Flask**.  
 - 📱 Experienced in **Android**, **Flutter**, and a bit of **iOS** with **Swift**.  
 - 🚀 Passionate about combining AI, backend systems, and mobile apps to solve real-world problems.  
 
