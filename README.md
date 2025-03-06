@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar Escamilla</h1>  
-<h3 align="center">Software Engineer | Android Developer</h3>  
+<h3 align="center">Software Engineer</h3>  
 
 <p align="center">Exploring Machine learning with python </p>
 
