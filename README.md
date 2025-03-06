@@ -1,42 +1,40 @@
 <h1 align="center">Hi 👋, I'm Oscar Escamilla</h1>  
-<h3 align="center">Software Engineer</h3>  
+<h3 align="center">Software Engineer | DevOps & Cloud Enthusiast</h3>  
 
-<p align="center">Exploring Machine learning with python </p>
-
-
+<p align="center">Building scalable backend systems, automating cloud infrastructure, and optimizing performance.</p>
 
 <p align="center">  
   <a href="https://twitter.com/oscarscami" target="_blank">
     <img src="https://img.shields.io/twitter/follow/oscarscami?logo=twitter&style=for-the-badge" alt="Follow me on Twitter">
   </a>  
 
- 
   <a href="https://linkedin.com/in/oscar-escamilla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn">
   </a>
-   
 </p>  
 
 ---
 
-### 🌟 About Me  
+## 🌟 About Me  
 
-- 💻 Currently working and exploring with **Deep Learning**, **Computer vision**, **Devops**, and model training.  
-- 🔧 Backend development using **Django**, **FastAPI** and **Flask**.  
-- 📱 Experienced in **Android**, **Flutter**, and a bit of **iOS** with **Swift**.  
-- 🚀 Passionate about combining AI, backend systems, and mobile apps to solve real-world problems.  
+- 💻 **Software Engineer** specializing in **backend development, cloud computing, and DevOps**.  
+- ⚡ Passionate about **high-performance, scalable architectures and automation**.  
+- 🔧 Proficient in **Python (Django, FastAPI, Flask)**<!-- , C# (.NET Core), and Java (Spring Boot)**.   -->
+- ☁️ Experience in **AWS, Azure-DevOps**.  <!-- IAM, EC2, ECR, ECS, EKS, Lambda, RDS -->
+- 🚀 Skilled in **microservices, API design, CI/CD**.  <!-- , and infrastructure as code (IaC) -->
+- 📈 Experienced in **observability, logging, and monitoring** using **Prometheus, Grafana**.  
 
 ---
 
-### 🛠️ Languages & Tools  
+## 🛠️ Tech Stack  
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=kotlin,java,swift,python,fastapi,django,flask,aws,docker,kubernetes,linux,githubactions,vscode,androidstudio,firebase" alt="Skills">  
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dotnet,java,aws,azure,docker,kubernetes,terraform,linux,git,githubactions,ansible,vscode,postgres,mysql,redis" alt="Tech Stack">
 </p>  
 
 ---
 
-### 📈 GitHub Stats  
+## 🔥 GitHub Stats  
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=oscarescamilla&show_icons=true&theme=tokyonight" alt="Stats" height="150">  
@@ -45,6 +43,9 @@
 
 ---
 
-### 👨🏻‍💻 Let’s Collaborate  
+## 👨🏻‍💻 Let's Connect  
 
-Open to opportunities in backend, machine learning, and mobile development. Let’s build something impactful!  
+🚀 Open to **Software Engineering, Cloud, and DevOps** opportunities!  
+Let's build high-performance, scalable systems together.  
+
+📩 Reach out via **[Twitter](https://twitter.com/oscarscami)** or **[LinkedIn](https://linkedin.com/in/oscar-escamilla)**.  
