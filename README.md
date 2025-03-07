@@ -19,9 +19,10 @@
 
 - 💻 **Software Engineer** specializing in **backend development, cloud computing, and DevOps**.  
 - ⚡ Passionate about **high-performance, scalable architectures and automation**.  
-- 🔧 Proficient in **Python (Django, FastAPI, Flask)**<!-- , C# (.NET Core), and Java (Spring Boot)**.   -->
-- ☁️ Experience in **AWS, Azure-DevOps**.  <!-- IAM, EC2, ECR, ECS, EKS, Lambda, RDS -->
-- 🚀 Skilled in **microservices, API design, CI/CD**.  <!-- , and infrastructure as code (IaC) -->
+- 🔧 Proficient in **Python (Django, FastAPI, Flask)**.  
+- ☁️ Experience in **AWS, Azure DevOps**.  
+- 🚀 Skilled in **microservices, API design, CI/CD, and infrastructure as code (IaC)**.  
+- 🧠 **Exploring AI & Computer Vision** – Worked with **YOLOv8, OpenCV, facial detection, object tracking**, and integrating AI models into applications. Currently exploring **Ollama, among other new models to take them to production projects and AI-powered automation**.  
 - 📈 Experienced in **observability, logging, and monitoring** using **Prometheus, Grafana**.  
 
 ---
@@ -29,7 +30,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dotnet,java,aws,azure,docker,kubernetes,terraform,linux,git,githubactions,ansible,vscode,postgres,mysql,redis" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,aws,azure,docker,kubernetes,terraform,linux,git,githubactions,ansible,vscode,postgres,mysql,redis" alt="Tech Stack">
 </p>  
 
 ---
