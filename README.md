@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar Escamilla</h1>  
-<h3 align="center">Software Engineer | DevOps & Cloud Enthusiast</h3>  
+<h3 align="center">Software Engineer | Cloud & AI Enthusiast</h3>  
 
 <p align="center">Building scalable backend systems, automating cloud infrastructure, and optimizing performance.</p>
 
@@ -22,7 +22,7 @@
 - 🔧 Proficient in **Python (Django, FastAPI, Flask)**.  
 - ☁️ Experience in **AWS, Azure DevOps**.  
 - 🚀 Skilled in **microservices, API design, CI/CD, and infrastructure as code (IaC)**.  
-- 🧠 **Exploring AI & Computer Vision** – Worked with fine tuning AI models **YOLO, OpenCV, facial detection, object tracking**, and integrating AI models into applications. Currently exploring LLM, to take them to production projects and AI-powered automation**.  
+- 🧠 **Exploring AI & Computer Vision** – Worked with fine tuning AI models **YOLO, OpenCV, facial detection, object tracking**, and integrating AI models into applications. Currently exploring LLM and RAG, to take them to production projects and AI-powered automation**.  
 - 📈 Experienced in **observability, logging, and monitoring** using **Prometheus, Grafana**.  
 
 ---
